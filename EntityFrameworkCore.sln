@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.31911.260
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntityFrameworkCore", "EntityFrameworkCore\EntityFrameworkCore.csproj", "{2DB91C23-2C56-4CF2-A107-6D13BF1170A8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{6F2C8093-6B84-4F7B-8856-E08DA2022325}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntityFrameworkCore.Test", "EntityFrameworkCore.Test\EntityFrameworkCore.Test.csproj", "{099D1925-35F9-4F35-A2A5-FDB563582CB6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2DB91C23-2C56-4CF2-A107-6D13BF1170A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DB91C23-2C56-4CF2-A107-6D13BF1170A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DB91C23-2C56-4CF2-A107-6D13BF1170A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DB91C23-2C56-4CF2-A107-6D13BF1170A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{099D1925-35F9-4F35-A2A5-FDB563582CB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{099D1925-35F9-4F35-A2A5-FDB563582CB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{099D1925-35F9-4F35-A2A5-FDB563582CB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{099D1925-35F9-4F35-A2A5-FDB563582CB6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A6D6C574-49D6-4CD1-835F-839C674171F0}
+	EndGlobalSection
+EndGlobal
